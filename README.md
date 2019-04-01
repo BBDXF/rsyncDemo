@@ -17,6 +17,13 @@
 
 
 
+# 参考资料
+
+- <https://www.freebuf.com/articles/database/129260.html>
+- <https://librsync.github.io/>
+
+
+
 by BBDXF
 
 2019-04-01 
